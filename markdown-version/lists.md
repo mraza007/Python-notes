@@ -28,10 +28,10 @@ print(list(x))
 ```Python
 x = ['john','jason','tony']
 print(x[0]) # This will john
-print(x[0]) # This will jason
-print(x[0]) # This will tony
-print(x[1])
-print(x[2])
+print(x[1]) # This will jason
+print(x[2]) # This will tony
+print(x[-1]) # This will tony
+print(x[-2]) # This will jason
 ```
 
 * We use built in python **in** keyword to see if the item exists in the list
