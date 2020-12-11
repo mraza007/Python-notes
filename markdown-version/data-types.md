@@ -9,7 +9,7 @@
 * set : It's a collection of unique data: {1, 'apple', 10.5}
 * frozenset : It's an immutable collection of unique data: frozenset({1, 'apple', 10.5})
 ```Python 
-x = true # Boolean
+x = True # Boolean
 y = "Hello World" # This is a string
 numbers = [1, 2, 3, 'four'] # this is a list
 letters = ('a', 'b', 'c', 'd') # this is a tuple
