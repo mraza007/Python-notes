@@ -69,7 +69,7 @@ info = {
     'city':'New York',
     'own_a_car':True,
 }
-name in info
+"name" in info
 # This will print true because name is key in info
 
 John in info.values()
